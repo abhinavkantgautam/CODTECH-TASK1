@@ -1,7 +1,7 @@
 # CODTECH-TASK1
 
 Name:- Kumar Abhinavkant Gautam
-Company:- CODTECH IT SOLUTIONS
+Company:- CODTECH IT SOLUTIONS PVT.LTD
 ID:- CT4CSEH5993
 Domains:- CYBER SECURITY & ETHICAL HACKING
 Duration:- August 1st to September 1st 2024
